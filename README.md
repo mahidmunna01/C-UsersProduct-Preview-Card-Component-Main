@@ -1,1 +1,1 @@
-# C-UsersProduct-Preview-Card-Component-Main
+#Product-Preview-Card-Component-Main
